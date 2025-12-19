@@ -1,0 +1,5 @@
+{
+  "name": "SLT-MOBITEL AI Assistant",
+  "description": "An intelligent virtual assistant for SLT-MOBITEL customers to check packages, services, and support information using Gemini with Google Search grounding.",
+  "requestFramePermissions": []
+}
